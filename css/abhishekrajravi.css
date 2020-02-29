@@ -42,7 +42,7 @@
 	color: aqua;
 }
 
-.navbar-nav-custom a:visited {
+.navbar-nav-custom a:active {
 	color: red;
 }
 /* HOME SECTION */
