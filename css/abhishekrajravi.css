@@ -41,7 +41,8 @@
 .navbar-nav-custom a{
 	color: aqua;
 }
-.navbar-nav-custom a:active {
+
+.navbar-nav-custom a:visited {
 	color: red;
 }
 /* HOME SECTION */
