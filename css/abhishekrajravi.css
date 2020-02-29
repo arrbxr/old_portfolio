@@ -41,7 +41,9 @@
 .navbar-nav-custom a{
 	color: aqua;
 }
-
+.navbar-nav-custom a:active {
+	color: red;
+}
 /* HOME SECTION */
 .home-section{
 	width: 100%;
